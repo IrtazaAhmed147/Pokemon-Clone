@@ -264,7 +264,7 @@ main {
 .chart {
     height: 17px;
     width: 99%;
-    background: url(/assets/chart.png) bottom no-repeat;
+    background: url(../assets/chart.png) bottom no-repeat;
     background-position-y: -34px;
 
 }
@@ -303,7 +303,7 @@ main {
 }
 
 .search {
-    background: url(/assets/bottom\ chart.png) no-repeat;
+    background: url(../assets/bottom\ chart.png) no-repeat;
     width: 100%;
     height: 40%;
 
@@ -435,7 +435,7 @@ transition-property: all;
 
 .grid-img {
     height: 70%;
-    background: url(/assets/thirdanniversary.png) no-repeat;
+    background: url(../assets/thirdanniversary.png) no-repeat;
     background-size: 100% 100%;
 
 }
@@ -474,7 +474,7 @@ transition-property: all;
 
 .grid-img2 {
     height: 60%;
-    background: url(/assets/to\ person.png) no-repeat;
+    background: url(../assets/to\ person.png) no-repeat;
     background-size: 100% 100%;
 
 }
@@ -495,7 +495,7 @@ transition-property: all;
 
 .grid-img3 {
     height: 60%;
-    background: url(/assets/skies.png) no-repeat;
+    background: url(../assets/skies.png) no-repeat;
     background-size: 100% 100%;
 
 }
@@ -515,7 +515,7 @@ transition-property: all;
 
 .grid-img4 {
     height: 50%;
-    background: url(/assets/fable.png) no-repeat;
+    background: url(../assets/fable.png) no-repeat;
     background-size: 100% 100%;
 }
 
@@ -536,7 +536,7 @@ transition-property: all;
 
 .grid-img5 {
     height: 50%;
-    background: url(/assets/pikachu\ friend.png) no-repeat;
+    background: url(../assets/pikachu\ friend.png) no-repeat;
     background-size: 100% 100%;
 
 
@@ -566,7 +566,7 @@ transition-property: all;
 
 .grid-img6 {
     width: 50%;
-    background: url(/assets/masquerade.png) no-repeat;
+    background: url(../assets/masquerade.png) no-repeat;
     background-size: 100% 100%;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
